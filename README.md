@@ -34,7 +34,7 @@ I love building efficient, scalable, and user-friendly web applications. Always 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yFiraBro&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FiraBro&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiraBro&layout=compact&theme=github_dark" height="150" />
 </p>
 
