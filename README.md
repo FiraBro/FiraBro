@@ -5,11 +5,6 @@
 
 ---
 
-### 💻 About Me
-
-I'm a **Full-Stack Developer** with a focus on the **MERN stack** – MongoDB, Express.js, React.js, and Node.js.  
-I love building efficient, scalable, and user-friendly web applications. Always learning, always building.
-
 
 
 
