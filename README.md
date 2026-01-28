@@ -24,5 +24,4 @@ I bridge the gap between complex research and production-ready AI systems. My wo
 ### 📬 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/fira-jemal-15666236b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jemalfiragos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
