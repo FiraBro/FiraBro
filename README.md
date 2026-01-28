@@ -20,28 +20,9 @@ I bridge the gap between complex research and production-ready AI systems. My wo
 
 ---
 
-### 🛠 Tech Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, HuggingFace, LangChain |
-| **Data & MLOps** | Pandas, SQL, Docker, Weights & Biases, FastAPI |
-| **Cloud & Infra** | AWS (SageMaker), Google Cloud Vertex AI, Kubernetes |
-| **Languages** | Python (Expert), TypeScript, C++, Rust |
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📬 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fira-jemal-15666236b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jemalfiragos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
