@@ -1,27 +1,32 @@
 <h1 align="center">Hi, I'm Firagos 👋</h1>
 <p align="center">
-  <strong>AI Research Engineer | ML Ops | Full-Stack Systems Designer</strong>
+  <strong>Beginner AI Engineer | Learning Machine Learning & AI Systems</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Large%20Language%20Models-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Neural%20Architectures-0052FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Background-Full--Stack%20Development-0052FF?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧬 About Me
-I bridge the gap between complex research and production-ready AI systems. My work focuses on building scalable **machine learning pipelines**, optimizing **LLM orchestration**, and designing systems that solve real-world problems through data-driven intelligence.
+### 👋 About Me
+I’m a **beginner AI engineer** with a strong background in **full-stack software development**.  
+I’m currently learning how artificial intelligence works and how to build simple, real-world AI features step by step.
 
-* 🔭 **Currently working on:** Distributed training of specialized transformer models.
-* 🧠 **Research Interests:** Retrieval-Augmented Generation (RAG) optimization and Efficient Fine-tuning (PEFT).
-* ⚡ **Philosophy:** "Code for the machine, design for the human, engineer for the future."
+I enjoy understanding **how things work under the hood**, especially machine learning models, APIs, and data-driven systems.
+
+* 🌱 **Currently learning:** Machine Learning fundamentals, Python for AI, and basic neural networks  
+* 🧠 **Interested in:** Chatbots, recommendation systems, and AI-powered web apps  
+* 🛠️ **Background:** Full-stack development (frontend + backend)
+* 🎯 **Goal:** Become a professional AI engineer by building real projects and learning consistently
 
 ---
 
-
 ### 📬 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/fira-jemal-15666236b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fira-jemal-15666236b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
