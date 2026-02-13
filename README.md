@@ -19,7 +19,7 @@ I enjoy understanding **how things work under the hood**, especially machine lea
 
 *  **Currently learning:** Machine Learning fundamentals, Python for AI, and basic neural networks  
 *  **Interested in:** Chatbots, recommendation systems, and AI-powered web apps  
-*  **Background:** Full-stack development (frontend + backend)
+*  **Background:** Backend development 
 *  **Goal:** Become a professional AI engineer by building real projects and learning consistently
 
 ---
