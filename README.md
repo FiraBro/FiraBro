@@ -1,26 +1,25 @@
 <h1 align="center">Hi, I'm Firagos </h1>
 <p align="center">
-  <strong>Beginner AI Engineer | Learning Machine Learning & AI Systems</strong>
+  <strong>Professional Backend Developer | Scalable Systems & API Architecture</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Background-Full--Stack%20Development-0052FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%26%20Redis-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%26%20Cloud-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ###  About Me
-I’m a **beginner AI engineer** with a strong background in **full-stack software development**.  
-I’m currently learning how artificial intelligence works and how to build simple, real-world AI features step by step.
+I’m a **Backend Developer** focused on building robust, high-performance server-side applications. I specialize in designing scalable system architectures, optimizing database performance, and creating seamless API integrations.
 
-I enjoy understanding **how things work under the hood**, especially machine learning models, APIs, and data-driven systems.
+I enjoy tackling **complex backend challenges**—from implementing real-time data synchronization to ensuring data integrity in multi-tenant environments.
 
-*  **Currently learning:** Machine Learning fundamentals, Python for AI, and basic neural networks  
-*  **Interested in:** Chatbots, recommendation systems, and AI-powered web apps  
-*  **Background:** Backend development 
-*  **Goal:** Become a professional AI engineer by building real projects and learning consistently
+*  **Core Expertise:** Node.js, PostgreSQL, Redis, and RESTful/GraphQL API Design  
+*  **Currently Learning:** Advanced DevOps, System Design Patterns, and Microservices  
+*  **Interested in:** Distributed systems, cloud-native development, and performance optimization  
+*  **Goal:** To build highly available and secure infrastructure for modern web ecosystems
 
 ---
 
